@@ -1,0 +1,12 @@
+.each-list-item {
+  margin: 10px;
+  width: 200px;
+  padding-bottom: 15px;
+}
+.project-img {
+  width: 100%;
+  padding-bottom: 6px;
+}
+.each-list-item:hover {
+  box-shadow: 0 0 20px #3db41f;
+}

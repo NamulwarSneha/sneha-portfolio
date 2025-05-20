@@ -1,0 +1,68 @@
+.each-project-list-item {
+  width: 300px;
+  padding-bottom: 20px;
+  /* border: 1px solid #758694; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+  margin: 15px 5px;
+  text-align: center;
+  box-shadow: 0 0 20px #a9aaab;
+  background-color: #fff;
+}
+.each-project-list-item:hover {
+  box-shadow: 0 0 20px #3db41f;
+}
+@media screen and (max-width: 767px) {
+  .each-project-list-item {
+    margin-bottom: 12px;
+  }
+}
+
+.each-project-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.links {
+  text-decoration: none;
+}
+.each-project-home-img {
+  width: 100%;
+  background-size: cover;
+}
+.each-project-name {
+  color: #102a42;
+  font-family: "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+  padding-top: 7px;
+  padding-bottom: 5px;
+  font-size: 26px;
+}
+.tech-names {
+  color: #324d67;
+  font-size: 15px;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+.each-projects-links {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+}
+.names-of-techs {
+  font-size: 14px;
+  color: #102a42;
+  background-color: #f1f5f8;
+  padding: 5px;
+}
+.tech-names-ul {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
