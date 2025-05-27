@@ -22,64 +22,54 @@ const apiStatusList = {
 const ProjectsDeatails = [
   {
     id: 1,
-    ProjectName: "JOBBY APP",
+    ProjectName: "VISITED COUNTRIES",
     ImageUrl:
-      "https://res.cloudinary.com/dhsz1cq0y/image/upload/v1720418308/JOBBY-APP-IMG_peos85.png",
-    LiveLink: "https://shivasaipr22.ccbp.tech/login",
-    GitHubUrl: "https://github.com/shivasai2828",
+      "https://res.cloudinary.com/dtcscyzn5/image/upload/v1748338167/visitedCountries_ytrbde.jpg",
+    LiveLink: "https://vercel.com/snehas-projects-70f8061b/visited-countries",
+    GitHubUrl: "https://github.com/NamulwarSneha/visited-countries",
     TechnologiesUsed: ["react", "flexBox", "Grid"],
-    VIEW: "www.linkedin.com/in/shivasai-boddu",
+    VIEW: "https://www.linkedin.com/in/sneha-namulwar-4b5374bb/",
   },
 
   {
     id: 2,
-    ProjectName: "NXT TRENDS",
+    ProjectName: "TASK MANAGEMENT SYSTEM",
     ImageUrl:
-      "https://res.cloudinary.com/dhsz1cq0y/image/upload/v1720418308/NXT-TRENDS-IMG_jqibix.png",
-    LiveLink: "https://shivasaipr22.ccbp.tech/login",
-    GitHubUrl: "https://github.com/shivasai2828",
+      "https://res.cloudinary.com/dtcscyzn5/image/upload/v1747820764/TMS_bvga5u.jpg",
+    LiveLink: "https://task-management-system-m13o.vercel.app/",
+    GitHubUrl: "https://github.com/NamulwarSneha/TaskManagementSystem",
     TechnologiesUsed: ["react", "flexBox", "Grid"],
-    VIEW: "www.linkedin.com/in/shivasai-boddu",
+    VIEW: "https://www.linkedin.com/in/sneha-namulwar-4b5374bb/",
   },
   {
     id: 3,
     ProjectName: "NXT WATCH",
     ImageUrl:
       "https://res.cloudinary.com/dhsz1cq0y/image/upload/v1720418308/NXT-WACTH-IMG_dylayf.png",
-    LiveLink: "https://shivasaipr22.ccbp.tech/login",
-    GitHubUrl: "https://github.com/shivasai2828/Nxt-Watch-Mini-Project.git",
+    LiveLink: "https://github.com/NamulwarSneha/nxt-watch",
+    GitHubUrl: "https://github.com/NamulwarSneha/nxt-watch",
     TechnologiesUsed: ["react", "flexBox", "Grid"],
-    VIEW: "www.linkedin.com/in/shivasai-boddu",
+    VIEW: "https://www.linkedin.com/in/sneha-namulwar-4b5374bb/",
   },
   {
     id: 4,
-    ProjectName: "Rock-Paper-ScissorsRock-Paper-Scissor",
+    ProjectName: "Rock-Paper-Scissors",
     ImageUrl:
-      "https://res.cloudinary.com/dhsz1cq0y/image/upload/v1720418308/ROCK-PAPER_p70f69.png",
-    LiveLink: "https://shivasaipr22.ccbp.tech/login",
-    GitHubUrl: "https://github.com/shivasai2828/Rock-Paper-Scissors.git",
+      "https://res.cloudinary.com/dtcscyzn5/image/upload/v1748335796/rps-image_q9lq3u.jpg",
+    LiveLink: "https://rock-app-teal.vercel.app/",
+    GitHubUrl: "https://vercel.com/snehas-projects-70f8061b/rock-app",
     TechnologiesUsed: ["react", "flexBox", "Grid"],
-    VIEW: "www.linkedin.com/in/shivasai-boddu",
-  },
-  {
-    id: 5,
-    ProjectName: "Wikipedia Search Aplication",
-    ImageUrl:
-      "https://res.cloudinary.com/dhsz1cq0y/image/upload/v1720418308/WIKI-IMG_cbi5e3.png",
-    LiveLink: "https://shivasaiwikipr1.ccbp.tech/",
-    GitHubUrl: "https://github.com/shivasai2828/",
-    TechnologiesUsed: ["HTML5", "CSS3", "JS"],
-    VIEW: "www.linkedin.com/in/shivasai-boddu",
+    VIEW: "https://www.linkedin.com/in/sneha-namulwar-4b5374bb/",
   },
   {
     id: 6,
     ProjectName: "Todo Application",
     ImageUrl:
-      "https://res.cloudinary.com/dhsz1cq0y/image/upload/v1720418308/TODO-APP-IMG_dterc8.png",
-    LiveLink: "https://shivasailudo.ccbp.tech/",
-    GitHubUrl: "https://github.com/shivasai2828/",
+      "https://res.cloudinary.com/dtcscyzn5/image/upload/v1748338167/visitedCountries_ytrbde.jpg",
+    LiveLink: "https://todos-app-five-chi.vercel.app/",
+    GitHubUrl: "https://github.com/NamulwarSneha/todos-app",
     TechnologiesUsed: ["HTML5", "CSS3", "JS"],
-    VIEW: "www.linkedin.com/in/shivasai-boddu",
+    VIEW: "https://www.linkedin.com/in/sneha-namulwar-4b5374bb/",
   },
 ];
 class ProjectSection extends Component {

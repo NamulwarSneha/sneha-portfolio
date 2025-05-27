@@ -21,13 +21,13 @@ const ProjectsDeatails = [
 
   {
     id: 2,
-    ProjectName: "NXT TRENDS",
+    ProjectName: "TASK MANAGEMENT SYSTEM",
     ImageUrl:
-      "https://res.cloudinary.com/dhsz1cq0y/image/upload/v1720418308/NXT-TRENDS-IMG_jqibix.png",
-    LiveLink: "https://shivasaipr22.ccbp.tech/login",
-    GitHubUrl: "https://github.com/shivasai2828",
+      "https://res.cloudinary.com/dtcscyzn5/image/upload/v1747820764/TMS_bvga5u.jpg",
+    LiveLink: "https://task-management-system-ebon.vercel.app/",
+    GitHubUrl: "https://github.com/NamulwarSneha/TaskManagementSystem",
     TechnologiesUsed: ["react", "flexBox", "Grid"],
-    VIEW: "www.linkedin.com/in/shivasai-boddu",
+    VIEW: "https://www.linkedin.com/in/sneha-namulwar-4b5374bb/",
   },
   {
     id: 3,
