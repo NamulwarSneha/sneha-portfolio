@@ -454,7 +454,7 @@ class About extends Component {
                 <img
                   className="about-user-img"
                   alt="user-img"
-                  src="https://res.cloudinary.com/dtcscyzn5/image/upload/v1747724984/snehaa-img_kghktk.jpg"
+                  src="https://res.cloudinary.com/dtcscyzn5/image/upload/v1748418128/snehaa-img_xmevzq.jpg"
                 />
               </article>
             </div>
